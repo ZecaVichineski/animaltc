@@ -1,0 +1,36 @@
+h2 {
+  font-family: serif;
+  padding: 0 10px 0 10px;
+}
+
+#imagem {
+  width: 300px;
+  padding: 0 10px;
+}
+
+.dados {
+  font-weight: bold;
+}
+
+.curiosidade {
+  font-style: italic;
+}
+
+#foto {
+  border: 1px solid #ecebec;
+  max-width: 320px;
+  box-shadow: 7px 8px 5px 0 #Dee0db;
+}
+
+#body {
+  padding: 5px 20px 5px 20px;
+  font: 14px serif;
+  outline: 1px solid #ecebec;
+  outline-offset: -10px;
+}
+
+ul {
+  text-align: left;
+  list-style-type: none;
+  padding: 0 30px 0 0;
+}
